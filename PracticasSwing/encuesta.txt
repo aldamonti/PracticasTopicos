@@ -1,0 +1,3 @@
+Linux,S,N,N,24
+Linux,S,S,N,14
+Windows,S,S,S,24

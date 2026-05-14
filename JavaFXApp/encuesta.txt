@@ -1,0 +1,4 @@
+Windows,S,N,N,6
+Windows,S,S,S,11
+Mac,S,S,S,24
+Windows,S,S,S,24
